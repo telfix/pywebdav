@@ -40,6 +40,7 @@ docker-compose up webdav
 
 # Additional help:
 How to mount WebDAV on windows 10: https://www2.le.ac.uk/offices/itservices/ithelp/my-computer/files-and-security/work-off-campus/webdav/webdav-on-windows-10
+Mount with builtin Fileexplorer on Linux: dav://*docker-host-ip*:2345
 
 # Who?
 Hi, we are TELFIX GmbH, a small Software Company located in Vienna, Austria. We love to develop things for the Web, IOT, Cryptocurrencies, Telecommunications, Embedded Systems, Mobile Phones, Games and much much more. We dont feel really nerdy or geeky, but others are saying we are :)
