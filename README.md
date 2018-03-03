@@ -40,6 +40,7 @@ docker-compose up webdav
 
 # Additional help:
 How to mount WebDAV on windows 10: https://www2.le.ac.uk/offices/itservices/ithelp/my-computer/files-and-security/work-off-campus/webdav/webdav-on-windows-10
+
 Mount with builtin Fileexplorer on Linux: dav://*docker-host-ip*:2345
 
 # Who?
