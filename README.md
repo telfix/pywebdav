@@ -1,5 +1,6 @@
 [![Docker Automated build](https://img.shields.io/docker/automated/telfix/pywebdav.svg)](https://hub.docker.com/r/telfix/pywebdav/builds/) 
 ![Docker Build Status](https://img.shields.io/docker/build/telfix/pywebdav.svg)
+![License](https://img.shields.io/pypi/l/wsgidav.svg)
 
 # pywebdav
 Super Simple WebDAV Server, using python and wsgidav
