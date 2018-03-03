@@ -9,7 +9,7 @@ Sometimes you need to access files on linux machines with a windows client. For 
 1. NFS is deprecated on Windows
 2. WinSshFS is complicated to install and sometimes very unstable
 3. SMB/CIFS can only run once per server. Windows is not able to connect to non standard ports
-4. sync/unisono/rsync/dropbox/<name-your-sycn-tool-here> is either to slow or unable to handle conflicts well
+4. sync/unisono/rsync/dropbox/*name-your-sycn-tool-here* is either to slow or unable to handle conflicts well
 5. Windows is sometimes unable to connect to Apaches WebDAV implementation
 
 # Example usage:
